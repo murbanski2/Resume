@@ -1,0 +1,18 @@
+/* 
+    Document   : mystyle
+    Created on : Aug 28, 2013, 5:58:00 PM
+    Author     : Mark
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+nameinfo {font-family:arial,Arial,sans-serif; font-size:20px; text-align:center; }
+header1 {font-family:arial,Arial,sans-serif; font-size:18px;font-weight:bold; text-align:center; }
+p {font-family:arial,Arial,sans-serif; font-size:14px;}
+li {font-family:arial,Arial,sans-serif; font-size:14px;}
+table {width:70%;font-family:arial;font-size:14px;}
+
