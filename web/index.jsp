@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="mystyle.css">
-        <title>JSP Page</title>
+        <title>Mark's Resume</title>
     </head>
     <body>
     </br>
@@ -21,7 +21,9 @@ Menomonee Falls, WI  53051</br>
 <a href="urbanski1@gmail.com">urbanski1@gmail.com</a></br>
 </nameinfo>
 
-<p><b>Software Developer</b> with six years of experience serving internal and external customers.  A practical problem-solver who uses computer software and hardware to solve problems.  A team player who can get the job done.  Demonstrated strengths and skills in:.</p>
+<p><b>Software Developer</b> with six years of experience serving internal and external customers.  A practical problem-solver</br> 
+    who uses computer software and hardware to solve problems.  A team player who can get the job done.  Demonstrated</br>
+    strengths and skills in:.</p>
 <p>
 <table>
 <tr>
